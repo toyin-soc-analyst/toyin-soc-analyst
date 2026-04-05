@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Toyin
 
-<!--
-**toyin-soc-analyst/toyin-soc-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Analyst | SOC | Threat Detection  
 
-Here are some ideas to get you started:
+I am passionate about detecting threats, analyzing malware, and protecting systems from cyber attacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- SIEM: Splunk  
+- Malware Analysis: ANY.RUN  
+- Threat Detection & Incident Response  
+- MITRE ATT&CK Framework  
+
+---
+
+## 📂 Projects
+- 🔍 Malware Analysis Lab (ANY.RUN)  
+- 📊 Splunk Threat Detection Lab  
+- 📧 Phishing Analysis Lab (In Progress)  
+
+---
+
+## 🎯 Currently Working On
+- Improving threat detection skills  
+- Building real-world SOC projects  
+- Applying for SOC Analyst roles  
+
+---
+
+## 📫 Connect with me
+🔗 LinkedIn: https://www.linkedin.com/in/oluwatoyin-oyedijo-8a539a390/
