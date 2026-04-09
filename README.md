@@ -1,32 +1,18 @@
-# 👋 Hi, I'm Toyin
-🔗 Portfolio: https://github.com/toyin-soc-analyst
-🔐 Cybersecurity Analyst | SOC | Threat Detection  
+## 👋 Hi, I'm Toyin
 
-I am passionate about detecting threats, analyzing malware, and protecting systems from cyber attacks.
+🎯 Entry-Level SOC Analyst | Threat Detection | Security Operations  
 
----
+I specialize in analyzing security events, detecting threats, and responding to incidents using real-world SOC tools and techniques.
 
-## 🛠 Skills
-- SIEM: Splunk  
-- Malware Analysis: ANY.RUN  
-- Threat Detection & Incident Response  
-- MITRE ATT&CK Framework  
+🔍 What I Do:
+- Investigate security alerts using SIEM tools (Splunk)
+- Analyze network traffic (Wireshark)
+- Perform malware analysis (ANY.RUN)
+- Apply MITRE ATT&CK framework to real attack scenarios
 
----
+🚀 Projects:
+- Splunk Threat Detection Lab  
+- Malware Analysis (ANY.RUN)  
+- Phishing Investigation Lab  
 
-## 📂 Projects
-- 🔍 Malware Analysis Lab (ANY.RUN)  
-- 📊 Splunk Threat Detection Lab  
-- 📧 Phishing Analysis Lab (In Progress)  
-
----
-
-## 🎯 Currently Working On
-- Improving threat detection skills  
-- Building real-world SOC projects  
-- Applying for SOC Analyst roles  
-
----
-
-## 📫 Connect with me
-🔗 LinkedIn: https://www.linkedin.com/in/oluwatoyin-oyedijo-8a539a390/
+📍 Based in Toronto | Open to SOC Analyst & IT Support roles
